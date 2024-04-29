@@ -24,7 +24,7 @@ Atualizado em: 29/04/2024
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
 | Kaylan        | Protótipo de Telas / Marcar Horario / Modelo DER| 29/04/2024   | 05/05/2024 |   📝   |      |
 | Matheus       | Protótipo de Telas / Home / Tecnologias e arquitetura  | 29/04/2024   | 05/05/2024 |   📝   |      |
-| Paulo         | Prootótipo de Telas / Login e Cadastra / Docuemntação | 29/04/2024   | 05/05/2005 |   📝   |      |
+| Paulo         | Protótipo de Telas / Login e Cadastra / Docuemntação | 29/04/2024   | 05/05/2005 |   📝   |      |
 
 Legenda:
 - ✔️: terminado
