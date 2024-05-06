@@ -114,6 +114,6 @@ Usamos o canva para a criação de nossos frameworks, tais como a home page, tel
 | ---            | ---             |
 | SGBD           | MySQL           |
 | Front end      | HTML+CSS+JS     |
-| Back end       | Node + Express |
+| Back end       | Node+Express |
 | Deploy         | Github Pages    |
 
