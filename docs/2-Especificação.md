@@ -8,7 +8,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-![man-person-hair-white-profile-male-451653-pxhere com (1)](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/e7d353f3-ea48-47c9-8a0f-acc8598bda9b)
+![man-person-hair-white-profile-male-451653-pxhere com (1) (1)](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/d309dbd2-85ba-4112-8418-b02f9015d59d)
+
 
 Nome: Jean Santos
 Idade: 24 anos 
