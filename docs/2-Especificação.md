@@ -35,9 +35,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos Funcionais
 
 -Cadastro de cliente
+
 -Agendamento de horários
+
 -Lista de serviços
+
 -Fotos do corte dos clientes
+
 -Gestão de funcionários
 
 
@@ -45,8 +49,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 Não funcionais:
 -Desempenho (tempo de carregamento do site e etc)
+
 -Segurança do site
+
 -Usabilidade (responsividade e etc)
+
 -Compatibilidade com navegadores
 
 
