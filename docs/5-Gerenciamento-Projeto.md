@@ -22,9 +22,9 @@ Atualizado em: 29/04/2024
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| Kaylan        | Protótipo de Telas / Home / Modelo DER| 29/04/2024   | 05/05/2024 |   📝   |      |
-| Matheus       | Protótipo de Telas / Serviços / Tecnologias e arquitetura  | 29/04/2024   | 05/05/2024 |   📝   |      |
-| Paulo         | Protótipo de Telas / Login e Cadastra / Documentação  | 29/04/2024   | 05/05/2005 |   📝   |      |
+| Kaylan        | Protótipo de Telas / Home / Modelo DER| 29/04/2024   | 05/05/2024 |   ✔️   |      |
+| Matheus       | Protótipo de Telas / Serviços / Tecnologias e arquitetura  | 29/04/2024   | 05/05/2024 |   ✔️   |      |
+| Paulo         | Protótipo de Telas / Login e Cadastra / Documentação  | 29/04/2024   | 05/05/2005 |   ✔️   |      |
 
 Legenda:
 - ✔️: terminado
