@@ -108,7 +108,6 @@ C:\Users\kayla\3D Objects\BD - Diagramas de Relacionamentos
 
 Usamos o canva para a criação de nossos frameworks, tais como a home page, tela de serviços e tela de cadastro/login. Para a criação da nossa página web, usaremos a tecnologia HTML para estruturar a nossa página web, CSS para estilizar e JavaScript para nossas funções da página. Também será usado o Banco de dados para armazenar as informações dos nossos clientes e o uso de API para automatização de tarefas e processos do site. 
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
 
 | **Dimensão**   | **Tecnologia**  |
