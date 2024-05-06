@@ -1,6 +1,16 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Muitas vezes estamos sem tempo para esperar nas filas dos comércios, sem tempo para
+esperar na fila da farmácia, esperar na fila do mercado, ou até mesmo de uma barbearia
+esperando para fazer seu corte favorito, ficando assim sem disponibilidade de estar à espera.
+Nós da equipe Afiados & Estilosos, pensamos em uma forma de resolver isso, tornando mais
+prático e fácil marcar horários. Dessa forma, oferecemos uma solução mais eficaz, eliminando
+a necessidade de sair do conforto de sua casa e sem perder tempo. A proposta do nosso
+projeto é criar um site da nossa barbearia, onde os clientes possam visualizar quais os
+melhores horários para sua disponibilidade, assim não levar ao custo de estar aguardando para
+ser atendido. Nosso projeto conta com funcionalidades práticas e dinâmicas, como mostrar
+diferentes tipos de cortes, tabela de valores dos nossos serviços, tais como: corte infantil e
+adulto, barba, sobrancelha, selagem, coloração, penteado, relaxamento e terapia capilar, etc.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -16,26 +26,21 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Nosso objetivo é elaborar um site para os clientes agendarem seu corte de cabelo, assim não
+precisarão ficar na fila esperando para serem atendidos e nosso projeto vai proporcionar uma
+organização melhor para a barbearia.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O desenvolvimento desse software de barbearia não apenas modernizará e facilitará as
+operações internas do estabelecimento, mas também proporcionará uma experiência mais
+agradável e conveniente para os clientes. Isso pode resultar em uma maior fidelização de
+clientes e na atração de novos, pois o agendamento simplificado e a gestão eficiente dos
+serviços demonstrarão um compromisso com a qualidade e a satisfação do cliente.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Nosso público alvo são homens e crianças.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
