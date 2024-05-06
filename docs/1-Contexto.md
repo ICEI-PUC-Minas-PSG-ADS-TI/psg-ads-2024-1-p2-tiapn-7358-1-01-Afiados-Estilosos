@@ -8,9 +8,6 @@ Muitas pessoas tem o dia corrido e ficam sem tempo para aguardar seu atendimento
 um site para agilizar a vida dessas pessoas. Por meio do nosso site, o cliente faz o agendamento do serviço desejado e não tem perder horas
 na fila, esperando para ser atendido.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-
 ## Objetivos
 
 Nosso objetivo é elaborar um site para os clientes agendarem seu corte de cabelo, assim não
