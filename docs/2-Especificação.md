@@ -13,7 +13,7 @@ Nome: Jean Santos
 Idade: 24 anos 
 Bibliografia: Jean é um estudante que passa horas longe de casa em sua universidade, assim ficando sem horário em sua agenda para aguardar ser atendido.
 
-![photo-1507003211169-0a1dd7228f2d (1)](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/418165c7-fcc3-44b6-b5b2-31e16c92d0ac)
+![photo-1507003211169-0a1dd7228f2d (2)](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/eb7e53ee-a123-4d9e-8013-fe5a7207d1e3)
 Nome: Gabriel Suarez 
 Idade: 25 anos
 Bibliografia: Muito inseguro perante a outros barbeiros e gostaria de testar novas barbearias, assim testando novos cortes de cabelo.
