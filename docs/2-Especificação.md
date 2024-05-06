@@ -30,6 +30,15 @@ Bibliografia: Lucas está se casando, mas infelizmente não encontra uma barbear
 
 ## Requisitos
 
+
+| **Funcionais*  | **Não Funcionais**  |
+| ---            | ---             |
+| Cadastro de cliente           | Desempenho (tempo de carregamento do site e etc)        |
+| Agendamento de horários     | Segurança do site    |
+| Lista de serviços     | Usabilidade (responsividade e etc)|
+| Fotos do corte dos clientes      | Compatibilidade com navegadores    |
+| Gestão de funcionários     | 
+
 ### Requisitos Funcionais
 
 -Cadastro de cliente
@@ -43,7 +52,7 @@ Bibliografia: Lucas está se casando, mas infelizmente não encontra uma barbear
 -Gestão de funcionários
 
 
-### Requisitos não Funcionais
+### Requisitos Não Funcionais
 
 Não funcionais:
 -Desempenho (tempo de carregamento do site e etc)
