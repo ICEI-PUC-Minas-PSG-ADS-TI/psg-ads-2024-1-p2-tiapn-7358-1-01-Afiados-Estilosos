@@ -3,9 +3,10 @@
 Muitas vezes estamos sem tempo para esperar nas filas dos comércios, sem tempo para esperar na fila da farmácia, esperar na fila do mercado, ou até mesmo de uma barbearia esperando para fazer seu corte favorito, ficando assim sem disponibilidade de estar à espera. Nós da equipe Afiados & Estilosos, pensamos em uma forma de resolver isso, tornando mais prático e fácil marcar horários. Dessa forma, oferecemos uma solução mais eficaz, eliminando a necessidade de sair do conforto de sua casa e sem perder tempo. A proposta do nosso projeto é criar um site da nossa barbearia, onde os clientes possam visualizar quais os melhores horários para sua disponibilidade, assim não levar ao custo de estar aguardando para ser atendido. Nosso projeto conta com funcionalidades práticas e dinâmicas, como mostrar diferentes tipos de cortes, tabela de valores dos nossos serviços, tais como: corte infantil e adulto, barba, sobrancelha, selagem, coloração, penteado, relaxamento e terapia capilar, etc. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Muitas pessoas tem o dia corrido e ficam sem tempo para aguardar seu atendimento de corte na barbearia. Tendo esse problema em mente, criaremos
+um site para agilizar a vida dessas pessoas. Por meio do nosso site, o cliente faz o agendamento do serviço desejado e não tem perder horas
+na fila, esperando para ser atendido.
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
