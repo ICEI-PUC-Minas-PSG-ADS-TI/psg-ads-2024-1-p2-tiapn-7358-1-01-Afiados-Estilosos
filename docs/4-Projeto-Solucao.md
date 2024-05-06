@@ -41,32 +41,81 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 
 
 
+-- Table `mydb`.`agendamento`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mydb`.`agendamento` (
+  `idagenda` INT NOT NULL,
+  `nome` VARCHAR(45) NOT NULL,
+  `servico` VARCHAR(45) NOT NULL,
+  `data` DATE NOT NULL,
+  `horario` VARCHAR(4) NOT NULL,
+  PRIMARY KEY (`idagenda`))
+ENGINE = InnoDB;
 
 
-#### 4.3.1 Modelo ER
+-- -----------------------------------------------------
+-- Table `mydb`.`usuarios`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mydb`.`usuarios` (
+  `id` INT NOT NULL,
+  `nome` VARCHAR(50) NOT NULL,
+  `email` VARCHAR(45) NOT NULL,
+  `senha` VARCHAR(20) NOT NULL,
+  `agendamento_idagenda` INT NOT NULL,
+  PRIMARY KEY (`id`, `agendamento_idagenda`),
+  INDEX `fk_usuarios_agendamento_idx` (`agendamento_idagenda` ASC) VISIBLE,
+  CONSTRAINT `fk_usuarios_agendamento`
+    FOREIGN KEY (`agendamento_idagenda`)
+    REFERENCES `mydb`.`agendamento` (`idagenda`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB;
 
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
+-- -----------------------------------------------------
+-- Table `mydb`.`anuncios`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mydb`.`anuncios` (
+  `idanuncios` INT NOT NULL,
+  `nome` VARCHAR(50) NULL,
+  `foto` VARCHAR(50) NULL,
+  `descricao` LONGTEXT NULL,
+  PRIMARY KEY (`idanuncios`))
+ENGINE = InnoDB;
 
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
 
-#### 4.3.2 Esquema Relacional
-
-O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
- 
-As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
-
-> - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
-
-![Exemplo de um modelo relacional](images/modeloRelacional.png "Exemplo de Modelo Relacional.")
----
+-- -----------------------------------------------------
+-- Table `mydb`.`servicosprecos`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mydb`.`servicosprecos` (
+  `idservicos` INT NOT NULL,
+  `cabelo` INT NOT NULL,
+  `barba` INT NOT NULL,
+  `cabelomaisbarba` INT NOT NULL,
+  `sombracelha` INT NOT NULL,
+  `pezinho` INT NOT NULL,
+  `limpezapele` INT NOT NULL,
+  `agendamento_idagenda` INT NOT NULL,
+  `anuncios_idanuncios` INT NOT NULL,
+  PRIMARY KEY (`idservicos`, `agendamento_idagenda`),
+  INDEX `fk_servicosprecos_agendamento1_idx` (`agendamento_idagenda` ASC) VISIBLE,
+  INDEX `fk_servicosprecos_anuncios1_idx` (`anuncios_idanuncios` ASC) VISIBLE,
+  CONSTRAINT `fk_servicosprecos_agendamento1`
+    FOREIGN KEY (`agendamento_idagenda`)
+    REFERENCES `mydb`.`agendamento` (`idagenda`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `fk_servicosprecos_anuncios1`
+    FOREIGN KEY (`anuncios_idanuncios`)
+    REFERENCES `mydb`.`anuncios` (`idanuncios`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB;
 
 
 #### 4.3.3 Modelo Físico
 
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
-
+C:\Users\kayla\3D Objects\BD - Diagramas de Relacionamentos
 
 
 
