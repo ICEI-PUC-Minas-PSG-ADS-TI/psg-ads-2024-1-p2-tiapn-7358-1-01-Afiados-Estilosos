@@ -24,7 +24,7 @@ Protótipo da tela de login/cadastro:
 
 ![Modelo DER tiaw2](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/edf35552-3f42-4869-a1d6-702c574dc10d)
 
-
+#### 4.3.3 Modelo Físico
 
 -- Table `mydb`.`agendamento`
 -- -----------------------------------------------------
@@ -97,10 +97,6 @@ CREATE TABLE IF NOT EXISTS `mydb`.`servicosprecos` (
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
-
-#### 4.3.3 Modelo Físico
-
-C:\Users\kayla\3D Objects\BD - Diagramas de Relacionamentos
 
 
 
