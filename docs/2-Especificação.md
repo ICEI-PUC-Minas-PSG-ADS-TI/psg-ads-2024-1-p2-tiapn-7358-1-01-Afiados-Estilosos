@@ -31,7 +31,7 @@ Bibliografia: Lucas está se casando, mas infelizmente não encontra uma barbear
 ## Requisitos
 
 
-| **Funcionais*  | **Não Funcionais**  |
+| **Funcionais** | **Não Funcionais**  |
 | ---            | ---             |
 | Cadastro de cliente           | Desempenho (tempo de carregamento do site e etc)        |
 | Agendamento de horários     | Segurança do site    |
@@ -39,29 +39,7 @@ Bibliografia: Lucas está se casando, mas infelizmente não encontra uma barbear
 | Fotos do corte dos clientes      | Compatibilidade com navegadores    |
 | Gestão de funcionários     | 
 
-### Requisitos Funcionais
 
--Cadastro de cliente
-
--Agendamento de horários
-
--Lista de serviços
-
--Fotos do corte dos clientes
-
--Gestão de funcionários
-
-
-### Requisitos Não Funcionais
-
-Não funcionais:
--Desempenho (tempo de carregamento do site e etc)
-
--Segurança do site
-
--Usabilidade (responsividade e etc)
-
--Compatibilidade com navegadores
 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
