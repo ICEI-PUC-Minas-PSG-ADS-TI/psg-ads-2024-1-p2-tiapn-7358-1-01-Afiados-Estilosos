@@ -1,20 +1,8 @@
 ## 4. Projeto da Solução
 
-![Uploading Dark Blue Modern Geometric Simple Feature Section Website UI Prototype.png…]()
-
-
 ## 4.1. Arquitetura da solução
 
-
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
- Inclua um diagrama da solução e descreva os módulos e as tecnologias
- que fazem parte da solução. Discorra sobre o diagrama.
- 
- **Exemplo do diagrama de Arquitetura**:
- 
- ![Exemplo de Arquitetura](./images/arquitetura-exemplo.png)
- 
+![Dark Blue Modern Geometric Simple Feature Section Website UI Prototype](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/fb674859-0b2d-4be4-9ef8-865aabf7b54b)
 
 ### 4.2. Protótipos de telas
 
