@@ -21,8 +21,9 @@ Protótipo da tela de login/cadastro:
 
 ### 4.3. Modelo de dados
 
+![Modelo DER](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/1ea0133a-0bcc-464e-bd6f-391a8c9018c1)
 
-![Modelo DER tiaw2](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/edf35552-3f42-4869-a1d6-702c574dc10d)
+
 
 #### 4.3.3 Modelo Físico
 
