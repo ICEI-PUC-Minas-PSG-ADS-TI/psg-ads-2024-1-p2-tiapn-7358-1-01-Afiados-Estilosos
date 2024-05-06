@@ -6,11 +6,11 @@
 
 ### 4.2. Protótipos de telas
 
- Protótipo da tela HOME:
+ Protótipo da tela home:
 
  ![2](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/0051c434-f476-4c98-bc40-de97cc41c3bd)
 
- Protótipo da tela de SERVIÇOS:
+ Protótipo da tela de serviços:
 
  ![1](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/bbdbdc6c-8223-42bd-ba6a-4f8e9dab09cd)
 
