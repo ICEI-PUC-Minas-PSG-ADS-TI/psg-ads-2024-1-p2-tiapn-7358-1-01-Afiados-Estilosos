@@ -41,8 +41,8 @@ Bibliografia: Lucas está se casando, mas infelizmente não encontra uma barbear
 
 
 
-
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+
 
 - [Requisitos Funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
