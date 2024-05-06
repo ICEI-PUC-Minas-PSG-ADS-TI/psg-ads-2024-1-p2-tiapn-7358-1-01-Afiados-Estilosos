@@ -1,9 +1,8 @@
 ## 3. Modelagem dos processos de negócio
-
-
-> **Links Úteis**:
-> - [Modelagem de Processos AS-IS x TO-BE](https://dheka.com.br/modelagem-as-is-to-be/)
-> - [20 Dicas Práticas de Modelagem de Processos](https://dheka.com.br/20-dicas-praticas-de-modelagem-de-processos/)
+Modelagem de processos AS-IS:
+![modelo_asis](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/128488342/e6b65200-5326-44cc-9fd5-27d7b5df0bd0)
+Modelagem de processos TO-BE:
+![modelo_tobe](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/128488342/d8522410-4598-460b-9f65-ec7f32fc3ccb)
 
 ### 3.1. Modelagem da situação atual (Modelagem AS IS)
 
