@@ -5,7 +5,7 @@ Muitas vezes estamos sem tempo para esperar nas filas dos comércios, sem tempo 
 ## Problema
 
 Muitas pessoas tem o dia corrido e ficam sem tempo para aguardar seu atendimento de corte na barbearia. Tendo esse problema em mente, criaremos
-um site para agilizar a vida dessas pessoas. Por meio do nosso site, o cliente faz o agendamento do serviço desejado e não tem perder horas
+um site para agilizar a vida dessas pessoas. Por meio do nosso site, o cliente faz o agendamento do serviço desejado e não tem que perder horas
 na fila, esperando para ser atendido.
 
 ## Objetivos
