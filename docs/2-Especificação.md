@@ -28,38 +28,27 @@ Nome: Lucas Rodrigues
 Idade: 30 anos
 Bibliografia: Lucas está se casando, mas infelizmente não encontra uma barbearia onde haja o serviço dia do noivo, assim ficando sem opções para seu casamento.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+-Cadastro de cliente
+-Agendamento de horários
+-Lista de serviços
+-Fotos do corte dos clientes
+-Gestão de funcionários
+
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+Não funcionais:
+-Desempenho (tempo de carregamento do site e etc)
+-Segurança do site
+-Usabilidade (responsividade e etc)
+-Compatibilidade com navegadores
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
