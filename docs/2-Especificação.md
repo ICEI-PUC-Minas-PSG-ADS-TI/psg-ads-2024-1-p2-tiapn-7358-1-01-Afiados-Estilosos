@@ -8,7 +8,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-![man-person-hair-white-profile-male-451653-pxhere com](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/bc7e62ce-fb6b-4637-a5ce-2784d937c535)
+![man-person-hair-white-profile-male-451653-pxhere com (1)](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/e7d353f3-ea48-47c9-8a0f-acc8598bda9b)
+
 Nome: Jean Santos
 Idade: 24 anos 
 Bibliografia: Jean é um estudante que passa horas longe de casa em sua universidade, assim ficando sem horário em sua agenda para aguardar ser atendido.
