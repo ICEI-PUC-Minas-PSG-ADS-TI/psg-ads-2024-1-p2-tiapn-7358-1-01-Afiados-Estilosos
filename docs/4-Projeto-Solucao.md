@@ -27,6 +27,16 @@ Protótipo da tela de login/cadastro:
 
 #### 4.3.3 Modelo Físico
 
+CREATE TABLE IF NOT EXISTS `mydb`.`usuarios` (
+  `id` INT NOT NULL,
+  `nome` VARCHAR(50) NOT NULL,
+  `email` VARCHAR(45) NOT NULL,
+  `senha` VARCHAR(20) NOT NULL,
+  PRIMARY KEY (`id`))
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
 -- Table `mydb`.`agendamento`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`agendamento` (
@@ -35,24 +45,12 @@ CREATE TABLE IF NOT EXISTS `mydb`.`agendamento` (
   `servico` VARCHAR(45) NOT NULL,
   `data` DATE NOT NULL,
   `horario` VARCHAR(4) NOT NULL,
-  PRIMARY KEY (`idagenda`))
-ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
--- Table `mydb`.`usuarios`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `mydb`.`usuarios` (
-  `id` INT NOT NULL,
-  `nome` VARCHAR(50) NOT NULL,
-  `email` VARCHAR(45) NOT NULL,
-  `senha` VARCHAR(20) NOT NULL,
-  `agendamento_idagenda` INT NOT NULL,
-  PRIMARY KEY (`id`, `agendamento_idagenda`),
-  INDEX `fk_usuarios_agendamento_idx` (`agendamento_idagenda` ASC) VISIBLE,
-  CONSTRAINT `fk_usuarios_agendamento`
-    FOREIGN KEY (`agendamento_idagenda`)
-    REFERENCES `mydb`.`agendamento` (`idagenda`)
+  `usuarios_id` INT NOT NULL,
+  PRIMARY KEY (`idagenda`, `usuarios_id`),
+  INDEX `fk_agendamento_usuarios1_idx` (`usuarios_id` ASC) VISIBLE,
+  CONSTRAINT `fk_agendamento_usuarios1`
+    FOREIGN KEY (`usuarios_id`)
+    REFERENCES `mydb`.`usuarios` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
@@ -83,7 +81,7 @@ CREATE TABLE IF NOT EXISTS `mydb`.`servicosprecos` (
   `limpezapele` INT NOT NULL,
   `agendamento_idagenda` INT NOT NULL,
   `anuncios_idanuncios` INT NOT NULL,
-  PRIMARY KEY (`idservicos`, `agendamento_idagenda`),
+  PRIMARY KEY (`idservicos`, `agendamento_idagenda`, `anuncios_idanuncios`),
   INDEX `fk_servicosprecos_agendamento1_idx` (`agendamento_idagenda` ASC) VISIBLE,
   INDEX `fk_servicosprecos_anuncios1_idx` (`anuncios_idanuncios` ASC) VISIBLE,
   CONSTRAINT `fk_servicosprecos_agendamento1`
