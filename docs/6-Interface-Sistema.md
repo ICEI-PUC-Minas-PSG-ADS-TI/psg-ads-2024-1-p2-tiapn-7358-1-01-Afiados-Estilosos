@@ -14,7 +14,8 @@ _Descrição da tela principal do sistema._
 
 ## 6.2. Tela de serviços
 
-![image](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/128488342/c6817f06-8034-4d2d-887c-10878059e822)
+![tela_serviços](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/128488342/7672c47d-5ba2-4595-9f30-868f8dd95d40)
+
 
 ## 6.3. Telas do processo 2
 
