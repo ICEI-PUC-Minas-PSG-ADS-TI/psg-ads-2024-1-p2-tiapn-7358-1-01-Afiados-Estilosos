@@ -1,4 +1,4 @@
-## 4. Projeto da Solução
+ 4. Projeto da Solução
 
 ## 4.1. Arquitetura da solução
 
