@@ -1,6 +1,9 @@
 # Código-fonte do projeto
 Tela de serviços:
 
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,6 +13,7 @@ Tela de serviços:
 
 <body>
     <header>
+        
         <nav class="menu-desktop">
             <ul>
                 <li><a href="#">Inicio</a></li>
@@ -58,10 +62,6 @@ Tela de serviços:
             </h4>
         </div>
     </footer>
-
+    
 </body>
-
 </html>
-
-Aqui devem ficar os arquivos-fonte do projeto: HTML, CSS, Javascript, imagens, e outros necessários para o 
-funcionamento do sistema.
