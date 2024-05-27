@@ -9,7 +9,7 @@ _Visão geral da interação do usuário por meio das telas do sistema. Apresent
 
 _Descrição da tela principal do sistema._
 
-![Uploading Tela Home- prit.png…]()
+![Tela Home- prit](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/aa758da7-2a8a-47fe-a942-a20121bccc21)
 
 
 ## 6.2. Telas do processo 1
