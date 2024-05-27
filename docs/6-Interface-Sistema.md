@@ -7,9 +7,9 @@ _Visão geral da interação do usuário por meio das telas do sistema. Apresent
 
 ## 6.1. Tela principal do sistema
 
-_Descrição da tela principal do sistema._
 
 ![Tela Home- prit](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/aa758da7-2a8a-47fe-a942-a20121bccc21)
+Na home page, criamos uma tela intuitiva e sem muitos pontos, para assim ficar mais fácil e agrádevl ao usuário, podendo acessar as outras páginas de fácil acesso.
 
 
 ## 6.2. Tela de serviços
