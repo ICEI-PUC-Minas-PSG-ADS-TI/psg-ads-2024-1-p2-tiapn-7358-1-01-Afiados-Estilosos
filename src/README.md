@@ -222,7 +222,13 @@ footer{
 }
 
 
+*Imagens Home Page 
 
+
+![img-Home-BARBA](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/f1ee77fb-afba-4322-af65-312627bc4e6c)
+![img-home-afiados-estilosos](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/bf8f6bad-2188-49f3-b1a9-0ed72ea2f583)
+![img-Home-PIGMENTAÇÃO](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/6ac7b4b3-718f-47bb-919f-79e11e0a940d)
+![img-Home-CORTE](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/9bb7f8bd-1786-4911-bab7-3fb283f28bae)
 
 
 
