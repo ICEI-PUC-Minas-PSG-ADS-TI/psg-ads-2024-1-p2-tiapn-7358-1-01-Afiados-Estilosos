@@ -15,7 +15,7 @@ Na home page, criamos uma tela intuitiva e sem muitos pontos, para assim ficar m
 ## 6.2. Tela de serviços
 
 ![tela_serviços](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/128488342/7672c47d-5ba2-4595-9f30-868f8dd95d40)
-
+Descubra uma variedade de serviços meticulosamente projetados para atender às suas necessidades de cuidado pessoal, nesta tela é exibido os tipos de serviços e valores da nossa barbeaira.. De cortes de cabelo e barba a tratamentos faciais e capilares, oferecemos uma gama de opções para você se sentir confiante e bem cuidado. Escolha entre uma seleção de serviços premium realizados por nossos talentosos barbeiros e desfrute de uma experiência de beleza masculina incomparável.
 
 ## 6.3. Telas do processo 2
 
