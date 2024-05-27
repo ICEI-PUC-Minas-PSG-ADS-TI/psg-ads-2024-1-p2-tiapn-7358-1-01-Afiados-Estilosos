@@ -12,16 +12,9 @@ _Descrição da tela principal do sistema._
 ![Tela Home- prit](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/129122228/aa758da7-2a8a-47fe-a942-a20121bccc21)
 
 
-## 6.2. Telas do processo 1
+## 6.2. Tela de serviços
 
-_Descrição da tela relativa à atividade 1._
-
-[`Tela da atividade 1`](images/)
-
-_Descrição da tela relativa à atividade 2._
-
-[`Tela da atividade 2`](images/)
-
+![image](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Afiados-Estilosos/assets/128488342/c6817f06-8034-4d2d-887c-10878059e822)
 
 ## 6.3. Telas do processo 2
 
