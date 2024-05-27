@@ -65,3 +65,183 @@ HTML da tela de Serviços:
     
 </body>
 </html>
+
+CSS da tela de Serviços:
+/*ESTILO EM GERAL*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(33, 0, 63);
+    height: 100ch;
+}
+
+.interface{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+/*ESTILO CABECALHO*/
+header{
+    padding: 40px 4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+header a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.5s;
+
+}
+
+header a:hover{
+    color: rgb(255, 255, 0);
+    transform: scale(1.30);
+
+}
+
+header nav ul{
+    list-style-type: none;
+}
+
+header nav ul li{
+    display: inline-block;
+    padding: 0 45px;
+}
+
+header .btn-perfil button{
+    padding: 20px 40px;
+    font-size: 22px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+header .btn-perfil button:hover{
+    box-shadow: 0px 0px 8px #ffd000;
+
+}
+
+main{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+}
+
+main h1{
+    text-align: center;
+    font-size: 60px;
+    padding: 30px;
+    color: white;
+    font-weight: 800;
+
+}
+
+.tela{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    margin-left: 450px;
+    width: 1000px;
+    height: 300px;
+    border-top-left-radius: 10px; 
+    border-top-right-radius: 10px; 
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+
+.corte{
+    font-size: 20px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 16%;
+    margin-top: 40px;
+}
+
+.hidratacao{
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.titulo-corte{
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(59, 0, 114);
+    color: white;
+    border-radius: 5px;
+}
+
+.titulo-hidratacao{
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(59, 0, 114);
+    color: white;
+    border-radius: 5px;
+}
+main h3{
+    margin-top: 6px;
+}
+main h2{
+    margin-bottom: 20px;
+}
+
+/*Estilização do footer*/
+footer{
+    position: fixed;
+    bottom: 0;
+    padding: 20px;
+    width: 100%;
+    color: antiquewhite;
+    background-color: rgba(49, 0, 174, 0.837);
+    padding: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    ;
+}
+
+.footer-section {
+    flex: 1 1 200px;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+
+  .footer-section h3 {
+    margin-top: 0;
+  }
+
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .footer-section ul li {
+    margin: 5px 0;
+  }
+
+  .footer-section ul li a {
+    color: white;
+    text-decoration: none;
+  }
+
+  .footer-section ul li a:hover {
+    text-decoration: underline;
+  }
+
+  @media (max-width: 600px) {
+    .container {
+      flex-direction: column;
+      align-items: center;
+    }
+}
+
