@@ -1,5 +1,5 @@
 # Código-fonte do projeto
-Tela de serviços:
+HTML da tela de Serviços:
 
 <!DOCTYPE html>
 <html lang="en">
