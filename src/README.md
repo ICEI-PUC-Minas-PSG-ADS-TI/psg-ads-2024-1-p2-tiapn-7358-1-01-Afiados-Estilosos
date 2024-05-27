@@ -81,6 +81,149 @@ Tela Home Page
 </html>
 
 
+CSS Home Page 
+
+/*ESTILO EM GERAL*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(33, 0, 63);
+    height: 100ch;
+}
+
+.interface{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+
+
+
+/*ESTILO CABECALHO*/
+header{
+    padding: 40px 4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+
+
+header a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.5s;
+
+}
+
+header a:hover{
+    color: rgb(255, 255, 0);
+    transform: scale(1.30);
+
+}
+
+header nav ul{
+    list-style-type: none;
+}
+
+header nav ul li{
+    display: inline-block;
+    padding: 0 45px;  
+}
+
+header .btn-perfil button{
+    padding: 20px 40px;
+    font-size: 22px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+header .btn-perfil button:hover{
+    box-shadow: 0px 0px 8px #ffd000;
+
+}
+
+/*ESTILO TOPO IMG*/
+
+section.topo-site{
+    padding: 10px 4%;
+}
+
+.flex{
+    display: flex;
+    
+}
+
+section.topo-site .flex{
+    align-items: center;
+    justify-content: center;
+}
+
+
+/*ESTILO MEIO SITE IMG*/
+
+
+.flex2 h1{
+    text-align: center;
+    padding: 5px;
+    margin: 50px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+.flex2 h2{
+    color: aliceblue;
+    justify-content: left;
+    font-family: Arial, Helvetica, sans-serif ;
+    text-align: center;
+    
+}
+
+.display-img{
+    display: flex;
+    max-width: 100%;
+    height: auto;
+    
+}
+
+section.meio-site .display-img{
+      align-items: center;
+      justify-content: center;
+      padding: 15px;
+      gap: 100px;  
+      
+}
+
+.display-img{
+    width: 100%;
+    height: 100%;
+    
+}
+
+
+footer{
+    width: 100%;
+    color: antiquewhite;
+    background-color: rgba(49, 0, 174, 0.837);
+    padding: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+
+
+
 
 
 
